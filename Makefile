@@ -1,4 +1,4 @@
-DOCKER=/usr/bin/docker2
+DOCKER=/usr/bin/docker
 REPOSITORY=lambci/lambda
 RUNTIME=python3.6
 
