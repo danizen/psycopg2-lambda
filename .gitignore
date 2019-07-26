@@ -1,3 +1,2 @@
 upstream/
-build/
-dist/
+psycopg2*.zip
